@@ -1,0 +1,43 @@
+# **Takım İsmi**
+
+Takım F-61
+
+# Ürün İle İlgili Bilgiler
+
+## Takım Elemanları
+
+- Levent Keleş - Scrum Master
+- Barış Yılmaz - Product Owner
+- Berra Özberak - Developer
+- Recep Furkan Akın - Developer
+- Tanem Çelik - Developer
+
+## Ürün İsmi
+
+--Ortam--
+
+## Ürün Açıklaması
+
+- Ortam App uygulamamız üniversite hayatına başlamış öğrencilerin çeşitli alanlarda/kategorilerde bir araya gelerek sosyalleşmelerinde, iletişim kurmaları ve koordineli çalışma yürütmelerine avantaj sağlamaktır. 
+
+## Ürün Özellikleri
+
+- Grup oluşturma
+- Grup içi yazışma
+- Kişiselleştirilebilir profil
+- Kısa soru/yanıt anketine göre önerilen gruplar
+
+## Hedef Kitle
+
+- Üniversite öğrencileri
+- Proje/aktivite hazırlamak isteyen öğrenciler
+- Üniversite kulüpleri
+
+## Product Backlog URL
+
+[Miro Backlog Board](https://miro.com/app/board/uXjVM9qwV6E=/)
+
+---
+[Sprint 1](https://github.com/leventkeles/OUA-Bootcamp-F-61/blob/main/ProjectManagement/sprint-1.md)
+[Sprint 2](https://github.com/leventkeles/OUA-Bootcamp-F-61/blob/main/ProjectManagement/sprint-2.md)
+[Sprint 3](https://github.com/leventkeles/OUA-Bootcamp-F-61/blob/main/ProjectManagement/sprint-3.md)
