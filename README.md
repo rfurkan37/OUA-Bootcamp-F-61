@@ -6,7 +6,9 @@ Takım F-61
 
 ## Takım Elemanları
 
-- Levent Keleş - Scrum Master
+Tüm takım üyeleri develop kısmında yer almıştır.
+
+- Levent Keleş - Scrum Master 
 - Barış Yılmaz - Product Owner
 - Berra Özberak - Developer
 - Recep Furkan Akın - Developer
